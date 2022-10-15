@@ -1,0 +1,5 @@
+<fonts>
+	<font id="Main" filename="main.fnt" filter="0123456789" />
+	<font id="Test" filename="test.fnt" filter="0123456789" />
+	<font id="Date" filename="date.fnt" filter=" 0123456789adefhimnorstuw" />
+</fonts>

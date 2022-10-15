@@ -1,0 +1,20 @@
+<settings>
+
+    <setting propertyKey="@Properties.BackgroundColor" title="@Strings.BackgroundColorTitle">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0x333333">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0x000033">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="0x330000">@Strings.ColorDarkRed</listEntry>
+            <listEntry value="0x003300">@Strings.ColorDarkGreen</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="RotationDirection" title="@Strings.RotationDirectionTitle">
+        <settingConfig type="list">
+            <listEntry value="1">@Strings.Down</listEntry>
+            <listEntry value="-1">@Strings.Up</listEntry>
+        </settingConfig>
+    </setting>
+
+</settings>

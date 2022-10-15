@@ -1,0 +1,17 @@
+<strings>
+
+    <string id="AppName">Scroller</string>
+
+    <string id="BackgroundColorTitle">Background Color</string>
+
+    <string id="ColorBlack">Black</string>
+    <string id="ColorDarkGray">Dark Gray</string>
+    <string id="ColorDarkBlue">Dark Blue</string>
+    <string id="ColorDarkRed">Dark Red</string>
+    <string id="ColorDarkGreen">Dark Green</string>
+    
+    <string id="RotationDirectionTitle">Rotation Direction</string>
+    <string id="Down">Down</string>
+    <string id="Up">Up</string>
+
+</strings>
